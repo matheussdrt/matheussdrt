@@ -41,13 +41,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussdrt&theme=github_dark" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheussdrt&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussdrt&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheussdrt&theme=github_dark" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussdrt&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
