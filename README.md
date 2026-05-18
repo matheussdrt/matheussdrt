@@ -1,22 +1,26 @@
-<h1 align="center">Olá, eu sou Matheus Duarte 👋</h1>
+<h1 align="center">Matheus Duarte</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação focado em Análise de Dados
+  <strong>Ciência da Computação • Análise de Dados • Python • SQL • Power BI</strong>
 </p>
 
----
+<p align="center">
+  Transformando dados em insights úteis 📊
+</p>
 
-## 🚀 Sobre mim
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🎓 Estudante de Ciência da Computação  
-- 📊 Focado em Análise de Dados  
-- 🐍 Estudando Python, SQL e Power BI  
-- 📈 Gosto de transformar dados em insights úteis  
-- 💡 Sempre buscando aprender novas tecnologias  
+## ▸ Sobre Mim
 
----
+- Estudante de Ciência da Computação  
+- Focado em Análise de Dados  
+- Estudando Python, SQL e Power BI  
+- Interesse em visualização e tratamento de dados  
+- Sempre buscando aprender novas tecnologias  
 
-## 🛠️ Tecnologias e Ferramentas
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ▸ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -31,21 +35,21 @@
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📊 Estatísticas GitHub
+## ▸ Estatísticas GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussdrt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussdrt&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌐 Redes Sociais
+## ▸ Redes Sociais
 
 <div align="center">
 
@@ -59,10 +63,10 @@
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-✨ Obrigado por visitar meu perfil ✨
+「 Obrigado por visitar meu perfil 」
 
 </div>
